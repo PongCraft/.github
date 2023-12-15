@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../img/pong.git" alt="Pong">
+  <img src="https://github.com/PongCraft/.github/tree/main/img/pong.git" alt="Pong">
 </p>
 
 
