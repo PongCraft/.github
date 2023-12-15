@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../img/pong.git" alt="Pong">
+</p>
+
+
 ## Hi there 👋
 
 ![Pong](../img/pong.gif)
