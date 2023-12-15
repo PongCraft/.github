@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Pong](.github/img/pong.gif)
+![Pong](../img/pong.gif)
 
 <!--
 
