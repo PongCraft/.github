@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Pong](.github/img/pong.gif)
+
 <!--
 
 **Here are some ideas to get you started:**
