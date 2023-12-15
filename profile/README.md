@@ -2,18 +2,6 @@
   <img src="https://github.com/PongCraft/.github/blob/main/img/pong.gif" alt="Pong">
 </p>
 
+Welcome to the PongCraft GitHub organization! Immerse yourself in the world of classic gaming nostalgia with our collection of OldSchool Pong implementations in various programming languages.
 
-## Hi there 👋
-
-![Pong](../img/pong.gif)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+PongCraft celebrates the timeless charm of the classic Pong game within the collaborative environment of GitHub. This organization is dedicated to preserving the essence of OldSchool gaming, offering a diverse range of Pong implementations in different languages.
